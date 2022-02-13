@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaibhav Rajput
-- 🌱 I’m pursuing my bachelor degree in computer science
+- 🌱 I’m a Junior Undergraduate student at PDM University with Computer Science as a major.
 - 👀 I’m interested in Python, GUI's, Django, Databases and Machines Leaning stuff
 
 
